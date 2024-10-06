@@ -2,9 +2,9 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Установка]([./task1/README.md](https://github.com/netology-code/jd-homeworks/blob/master/files/task1/README.md));	
-2. [Сохранение]([./task2/README.md](https://github.com/netology-code/jd-homeworks/blob/master/files/task2/README.md));
-3. [Загрузка]([./task3/README.md](https://github.com/netology-code/jd-homeworks/blob/master/files/task3/README.md)) (со звездочкой *).
+1. [Установка](https://github.com/netology-code/jd-homeworks/blob/master/files/task1/README.md);	
+2. [Сохранение](https://github.com/netology-code/jd-homeworks/blob/master/files/task2/README.md);
+3. [Загрузка](https://github.com/netology-code/jd-homeworks/blob/master/files/task3/README.md) (со звездочкой *).
 
 =======
 
